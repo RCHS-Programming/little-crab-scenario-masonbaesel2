@@ -13,4 +13,6 @@ comment4.target=void\ lookForWorm()
 comment4.text=\r\n\ check\ wether\ we\ have\ stumbled\ about\ a\ worm\ if\ we\ have\ ate\ it\ and\ if\ not\ eat\ it\r\n
 comment5.params=
 comment5.target=void\ checkKeyPress()
-numComments=6
+comment6.params=
+comment6.target=void\ switchImage()
+numComments=7
